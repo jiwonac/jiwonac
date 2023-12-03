@@ -1,3 +1,3 @@
-Hello 👋 I am Jiwon Chang. I'm a B.S. in computer science at the University of Rochester and an undergraduate researcher at the UR Data Intelligence Lab under prof. Fatemeh Nargesian. 
+Hello 👋 I am Jiwon Chang. I have a B.S. in computer science at the University of Rochester and have now joined URCS as a PhD candidate under professor Fatemeh Nargesian. I study data management for AI/ML, especially within the data 
 
 My [personal website](https://jiwonc.net/) is the home for all relevant information. 
