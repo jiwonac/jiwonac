@@ -1,8 +1,3 @@
-# HOWTO
-
-* Use this README to check my current status. 
-* Issues list all tasks & backlog.
-
 # Summary of Current Work
 ## Coursework
 
