@@ -1,8 +1,5 @@
-Hello 👋 I am Jiwon Chang. I have a B.S. in computer science at the University of Rochester and have now joined URCS as a PhD candidate under professor Fatemeh Nargesian. 
+Hello 👋 I am Jiwon Chang. I am a Ph.D. student for Computer Science at the University of Rochester, studying data management systems under Dr. Fatemeh Nargesian. 
 
-I research topics related to:
- - Data acquisition for improving ML performance. 
- - Integrating ML inference into analytical DBMS. 
- - Data systems for auditing ML behavior. 
+My work has appeared in SIGMOD, VLDB, and OOPSLA, spanning tabular deep learning, data cleaning and augmentation for ML, ML/LLMs for SQL extension, and query optimization. 
 
-My [personal website](https://jiwonc.net/) is the home for all relevant information. 
+You can find me on my [personal website](https://jiwonc.net/) and [LinkedIn](https://www.linkedin.com/in/jiwonchang/). 
